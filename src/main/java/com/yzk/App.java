@@ -9,5 +9,6 @@ public class App
     public static void main( String[] args ) {
         System.out.println( "hello git test" );
         System.out.println( "hello git test2" );
+        System.out.println( "hello git test3" );
     }
 }
