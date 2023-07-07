@@ -11,5 +11,6 @@ public class AppHotFix {
     public static void main(String[] args) {
         System.out.println("hot-fix 分支");
         System.out.println( "冲突1" );
+        System.out.println("冲突2");
     }
 }
